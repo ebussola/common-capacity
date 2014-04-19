@@ -8,6 +8,11 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "ebussola\\common\\capacity\\": "src/"
+        }
+    },
     "require": {
 
     }
