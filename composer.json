@@ -1,0 +1,14 @@
+{
+    "name": "ebussola/common-capacity",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Shinagawa",
+            "email": "leonardo@ebussola.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
